@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sambit Behura</h1>
-<h3 align="center">A passionate Data Scientist & AI Engineer from India. PGDBA from IIM Calcutta-ISI Kolkata- IIT Kharagpur. B.Tech from NIT Trichy</h3>
+<h3 align="center">A passionate Data Scientist & AI Engineer from India. PGDBA from IIM Calcutta-ISI Kolkata- IIT Kharagpur. B.Tech from NIT Trichy. Ex- AMEX, Ex-Mckinsey</h3>
 
 - 🌱 I’m currently learning **Agentic AI**
 
