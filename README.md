@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sbehu](https://github.com/sbehu)
 
-- 📫 How to reach me **behura.sambit@gmail.com**
+- 📫 How to reach me **sambitkx2020@email.iimcal.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
