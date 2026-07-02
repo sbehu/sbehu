@@ -26,11 +26,11 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> 
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="githubactions" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
 <br/><br/>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" alt="langchain" height="40"/> </a> 
 <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LangGraph-0052FF?style=flat-square&logo=diagram-next&logoColor=white" alt="langgraph" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="aws" height="40"/> </a>
-<a href="https://aws.amazon.com/ecr/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="ecr" height="40"/> </a>
-<a href="https://aws.amazon.com/ecs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="ecs" height="40"/> </a>
-<a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="ec2" height="40"/> </a>
+<a href="https://aws.amazon.com/ecr/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="ecr" height="40"/> </a>
+<a href="https://aws.amazon.com/ecs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="ecs" height="40"/> </a>
+<a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="ec2" height="40"/> </a>
 </p>
