@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sambit Behura</h1>
 <h3 align="center">A passionate Data Scientist & AI Engineer from India. PGDBA from IIM Calcutta-ISI Kolkata- IIT Kharagpur. B.Tech from NIT Trichy. Ex- AMEX, Ex-Mckinsey</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sbehu&color=blue&style=flat-square&label=Profile+Views" alt="Sambit's GitHub Views" />
+</p>
+
 - 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sbehu](https://github.com/sbehu)
