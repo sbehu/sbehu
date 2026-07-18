@@ -5,7 +5,7 @@
 PGDBA — IIM Calcutta, ISI Kolkata &amp; IIT Kharagpur · B.Tech — NIT Trichy
 </p>
 
-6.5+ years across McKinsey, American Express, and consumer lending — building the credit scorecards and marketing-impact models that shaped decisioning at scale. Now designing, evaluating, and deploying production multi-agent RAG systems. Case studies and eval numbers for both live projects are pinned below, with full write-ups on my portfolio.
+6.5+ years across McKinsey, American Express, and consumer lending — building the credit scorecards and marketing-impact models that shaped decisioning at scale. Now designing, evaluating, and deploying production multi-agent RAG systems. Case studies and eval numbers for both live projects are pinned below, with full write-ups on my portfolio .
 
 <p align="left">
 <a href="https://sbehu.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-sbehu.github.io-B5822C?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
