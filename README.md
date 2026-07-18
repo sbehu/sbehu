@@ -35,3 +35,5 @@ PGDBA — IIM Calcutta, ISI Kolkata &amp; IIT Kharagpur · B.Tech — NIT Trichy
 <br>
 
 Open to AI/GenAI engineering and data science roles at BFSI-focused GCCs, fintech, and AI consulting firms.
+
+<sub>Off duty: closing in on 200 foreign-language films logged on [Letterboxd](https://letterboxd.com/behurasambit/).</sub>
