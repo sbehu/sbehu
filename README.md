@@ -11,7 +11,7 @@ PGDBA — IIM Calcutta, ISI Kolkata &amp; IIT Kharagpur · B.Tech — NIT Trichy
 <a href="https://sbehu.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-sbehu.github.io-B5822C?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/behura-sambit/"><img src="https://img.shields.io/badge/LINKEDIN-Sambit%20Behura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://sbehu.github.io/Sambit_Behura_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-Download-1B6F5C?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
-<a href="mailto:sambitkx2020@email.iimcal.ac.in"><img src="https://img.shields.io/badge/GMAIL-Send%20Email-42485B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sambitkx2020@email.iimcal.ac.in"><img src="https://img.shields.io/badge/GMAIL-Send%20Email-42485B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br>
