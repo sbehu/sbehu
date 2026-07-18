@@ -25,15 +25,6 @@ PGDBA — IIM Calcutta, ISI Kolkata &amp; IIT Kharagpur · B.Tech — NIT Trichy
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-12182B?style=flat-square&logo=githubactions&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-12182B?style=flat-square&logo=streamlit&logoColor=white)
 
-<br>
-
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sbehu&show_icons=true&hide_border=true&bg_color=12182B&title_color=B5822C&text_color=EEF0E6&icon_color=1B6F5C" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbehu&layout=compact&hide_border=true&bg_color=12182B&title_color=B5822C&text_color=EEF0E6" />
-</p>
-
-<br>
-
 Open to AI/GenAI engineering and data science roles at BFSI-focused GCCs, fintech, and AI consulting firms.
 
 <sub>Off duty: closing in on 200 foreign-language films logged on [Letterboxd](https://letterboxd.com/behurasambit/).</sub>
